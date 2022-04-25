@@ -41,10 +41,10 @@ function App() {
             <img className='imgme' src={imagemy} width="350px" height="350px" alt='img not found'/>
           </div>
           <div className='info-text'>
-              <p>
+            <p>
               Me considero una persona comprometida al progreso, de rápido aprendizaje. Me gustan los nuevos retos y aprender de raíz las cosas para entender por completo su funcionamiento.
               Considero el trabajo en equipo uno de mis fuertes, teniendo respeto y compañerismo como valores principales. Disfruto compartir ideas y escuchar para aprender💪🏽. 
-              </p>
+            </p>
               <p>
               Estoy en búsqueda de una oportunidad laboral, en la que pueda desempeñar mis habilidades para mejorarlas, y a la vez, crecer y capacitarme profesionalmente al lado de compañeros que también disfruten de la programación.
               </p>
