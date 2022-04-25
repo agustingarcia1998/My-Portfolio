@@ -100,19 +100,22 @@ h4{
 }
 
 .box-1{
+  margin-top: 20px;
   display: flex;
   justify-content:center;
 }
 
 .btn {
-	line-height: 50px;
+	padding: 10px;
 	height: 50px;
 	text-align: center;
 	width: 150px;
 	cursor: pointer;
+  text-decoration: none;
 
 }
 .btn-one {
+  font-size: 20px;
 	color: #FFF;
 	transition: all 0.3s;
 	position: relative;
@@ -313,11 +316,11 @@ a{
 }
 
 .contactForm{
-  width: 45%;
+  width: 35%;
   border-radius: 25px;
   display:flex;
   justify-content: center;
-  background-color: rgb(127, 123, 252);
+  background-color: rgba(127, 123, 252, 0.68);
 }
 
 .contAll{

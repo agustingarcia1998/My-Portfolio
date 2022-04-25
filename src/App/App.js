@@ -3,6 +3,7 @@ import { Div } from './Styled.js';
 import image from '../Imgweat/ImageWeather.png';
 import imagemy from '../imgYo/edit.jpg';
 import imageCountries from '../ImgCountries/CountriesApp.png'
+
 function App() {
   return (
     <Div>
@@ -47,9 +48,9 @@ function App() {
               <p>
               Estoy en búsqueda de una oportunidad laboral, en la que pueda desempeñar mis habilidades para mejorarlas, y a la vez, crecer y capacitarme profesionalmente al lado de compañeros que también disfruten de la programación.
               </p>
-              <div class="box-1">
-                <div class="btn btn-one">
-                  <span>Descargar CV</span>
+              <div className="box-1">
+                <div>
+                <a className="btn btn-one" href="Download/García Agustín Fullstack web developer.pdf" download="CV García Agustín Fullstack web developer.pdf">Download CV</a>
                 </div>
               </div>
           </div>
@@ -136,9 +137,9 @@ function App() {
               <form action="mailto:agustingarcia280998@gmail.com" method="post" encType="text/plain">
                   <div className="row">
                     <div className="col-lg-5 col-12">
-                      <input type="text" className="form-control" name="name" placeholder="Nombre" id="name" autocomplete="off"/>
+                      <input type="text" className="form-control" name="name" placeholder="Nombre" id="name" autoComplete="off"/>
                    
-                      <input type="email" className="form-control" name="email" placeholder="Email" id="email" autocomplete="off"/>
+                      <input type="email" className="form-control" name="email" placeholder="Email" id="email" autoComplete="off"/>
                     </div>
 
                     <div className="col-10">
