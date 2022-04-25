@@ -28,7 +28,7 @@ function App() {
         <h4>¡Bienvenidos a mi sitio web!</h4>
         <div className='contsaludo'>
           <h1 className="animated animated-text">
-            <span className="mr-2">¡Hola a todos! Soy </span>
+            <span className="mr-2">¡Hola a todos! Soy</span>
             <div className="animated-info">
               <span className="animated-item">Agustín García</span>
               <span className="animated-item">Desarrollador FullStack</span>
