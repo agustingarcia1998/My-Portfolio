@@ -1,8 +1,8 @@
 import NavBar from '../Componentes/NavBar/Navbar.jsx';
 import { Div } from './Styled.js';
-import image from '../Imgweat/ImageWeather.png';
-import imagemy from '../imgYo/edit.jpg';
-import imageCountries from '../ImgCountries/CountriesApp.png'
+import image from '../Img/Imgweat/ImageWeather.png';
+import imagemy from '../Img/imgYo/edit.jpg';
+import imageCountries from '../Img/ImgCountries/CountriesApp.png'
 
 function App() {
   return (
