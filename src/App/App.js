@@ -50,7 +50,7 @@ function App() {
               </p>
               <div className="box-1">
                 <div>
-                <a className="btn btn-one" href="Download/García Agustín Fullstack web developer.pdf" download="CV García Agustín Fullstack web developer.pdf">Descargar CV</a>
+                <a className="btn btn-one" href="Download/Agustín García Desarrollador FullStack.pdf" download="CV Agustín García Desarrollador FullStack.pdf">Descargar CV</a>
                 </div>
               </div>
           </div>
