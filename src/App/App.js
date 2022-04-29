@@ -38,7 +38,7 @@ function App() {
         </div>
         <div className='info' id='info'>
           <div className='image'>
-            <img className='imgme' src={imagemy} width="350px" height="350px" alt='img not found'/>
+            <img className='imgme' src={imagemy} width="351px" height="351px" alt='img not found'/>
           </div>
           <div className='info-text'>
             <p>
