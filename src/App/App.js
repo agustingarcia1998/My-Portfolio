@@ -3,6 +3,7 @@ import { Div } from './Styled.js';
 import image from '../Img/Imgweat/ImageWeather.png';
 import imagemy from '../Img/imgYo/edit.jpg';
 import imageCountries from '../Img/ImgCountries/CountriesApp.png'
+import cv from "../download/Garcia Agustin Desarrollador Fullstack.pdf"
 
 function App() {
   return (
@@ -50,7 +51,7 @@ function App() {
               </p>
               <div className="box-1">
                 <div>
-                <a className="btn btn-one" href="Download/Agustín García Desarrollador FullStack.pdf" download="CV Agustín García Desarrollador FullStack.pdf">Descargar CV</a>
+                <a className="btn btn-one" href={cv} download="CV García Agustín Fullstack web developer.pdf">Descargar CV</a>
                 </div>
               </div>
           </div>
