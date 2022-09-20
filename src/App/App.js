@@ -81,7 +81,7 @@ function App() {
                 <img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_960_720.png" width="90px" height="80px" alt='img not found'/>
             </div>
             <div className="logo express">
-                <img src="https://images.tute.io/tute/topic/express-js.png" width="80px" height="80px" alt='img not found'/>
+                <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Expressjs.png/220px-Expressjs.png" width="100px" height="80px" alt='img not found'/>
             </div>
             <div className="logo postgreSQL">
                 <img src="https://www.sistemasumgcoban.com/wp-content/uploads/2018/05/postgresql-logo.png" width="100px" height="100px" alt='img not found'/>

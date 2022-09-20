@@ -269,8 +269,9 @@ h4{
   grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr; 
   grid-template-rows: 1fr 1fr; 
   gap: 0px 0px; 
-  background-color: rgba(220, 199, 232, 0.627);
+  background-color: rgba(242, 217, 255, 0.852);
 }
+
 
 .logo{
   display:flex;
